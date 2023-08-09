@@ -1,4 +1,3 @@
-[![MasterHead]()
 <h1 align="center">Hi 👋, I'm Aaryan Sonar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdXZlOGZ4NWk0cXl0bTBqdDhqbmNrOTBkZDk5eGozNnAxeHh4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -24,18 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonicaaryan&show_icons=true&locale=en" alt="sonicaaryan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonicaaryan&" alt="sonicaaryan" /></p>
-
-<!--
-**SonicAaryan/SonicAaryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 
--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
