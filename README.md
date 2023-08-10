@@ -3,13 +3,13 @@
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdXZlOGZ4NWk0cXl0bTBqdDhqbmNrOTBkZDk5eGozNnAxeHh4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonicaaryan&label=Profile%20views&color=0e75b6&style=flat" alt="sonicaaryan" /> </p>
 
-- 🔭 I’m currently working on **Blood Donation**
+- 🔭 I’ve Completed  **Blood Donation Application**
 
 - 🌱 I’m currently learning **Data Structure**
 
 - 💬 Ask me about **C,Java**
 
-- 📫 How to reach me **aaryansonar2@gmail.com**
+- 📫 Get In Touch With me **aaryansonar2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
