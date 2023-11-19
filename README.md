@@ -7,8 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **C,Java,JavaScript,GitHub,DataBase
-- **
+- 💬 Ask me about **C,Java,JavaScript,GitHub,DataBase**
 
 - 📫 Get In Touch With me **aaryansonar2@gmail.com**
 
