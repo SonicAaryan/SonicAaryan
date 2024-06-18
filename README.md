@@ -5,7 +5,7 @@
 
 - 🔭 I’ve Completed  **Blood Donation Application**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Web-Dev**
 
 - 💬 Ask me about **C,Java,JavaScript,GitHub,DataBase**
 
