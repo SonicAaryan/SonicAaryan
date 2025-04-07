@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaryan Sonar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">I thrive on creating and developing innovative ideas that spark excitement and drive change.</h3>
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdXZlOGZ4NWk0cXl0bTBqdDhqbmNrOTBkZDk5eGozNnAxeHh4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonicaaryan&label=Profile%20views&color=0e75b6&style=flat" alt="sonicaaryan" /> </p>
 
