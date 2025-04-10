@@ -7,9 +7,8 @@
 
 - 💬 Ask me about **C,Java,JavaScript,HTML,CSS,GitHub,DataBase,React,Tailwind CSS**
 
-- 📫 How to reach me **aaryansonar2@gmail.com**
+- 📫 Connect with me: **aaryansonar2@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 <h3 align="left">Languages and Tools:</h3>
