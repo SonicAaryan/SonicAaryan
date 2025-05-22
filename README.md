@@ -58,7 +58,9 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:aaryansonar2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aaryansonar2@gmail.com&su=Hello&body=Hi%20Aaryan!" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://in.linkedin.com/in/aaryansonar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- Add more badges if needed -->
 </p>
