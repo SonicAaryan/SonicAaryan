@@ -11,22 +11,30 @@
 </p>
 
 ---
-
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdXZlOGZ4NWk0cXl0bTBqdDhqbmNrOTBkZDk5eGozNnAxeHh4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+  <tr>
+    <td>
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning: **MERN Stack, Next.js**
-- 💬 Ask me about:  
-  `C`, `Java`, `JavaScript`, `HTML`, `CSS`, `GitHub`, `Database`, `React`, `Tailwind CSS`
----
+- 🌱 Currently diving deep into MERN Stack and Next.js  
+- 💬 Ask me anything about:  
+  C, Java, JavaScript, React, Tailwind CSS, Git, Databases, UI Design  
+- 🎯 Fun Fact: I turn ☕ into 💻
+
+</td>
+    <td>
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdXZlOGZ4NWk0cXl0bTBqdDhqbmNrOTBkZDk5eGozNnAxeHh4OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif">
+    </td>
+  </tr>
+</table>
+
 
 ### 🧰 Languages & Tools I Use
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,mongodb,mysql,postgres,git,postman,figma,linux" />
 </p>
-
 
 ---
 
