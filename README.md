@@ -33,7 +33,7 @@
 ### 🧰 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,tailwind,react,nextjs,nodejs,mongodb,mysql,postgres,git,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,python,html,css,bootstrap,tailwind,react,nextjs,nodejs,mongodb,mysql,postgres,git,postman,figma,linux" />
 </p>
 
 ---
