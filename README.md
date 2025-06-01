@@ -20,7 +20,6 @@
 - 🌱 Currently diving deep into MERN Stack and Next.js  
 - 💬 Ask me anything about:  
   C, Java, JavaScript, React, Tailwind CSS, Git, Databases, UI Design  
-- 🎯 Fun Fact: I turn ☕ into 💻
 
 </td>
     <td>
