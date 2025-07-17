@@ -17,9 +17,9 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently diving deep into MERN Stack and Next.js  
+- 🌱 Currently diving deep into Full-Stack and Data Engineering  
 - 💬 Ask me anything about:  
-  C, Java, JavaScript, React, Tailwind CSS, Git, Databases, UI Design  
+  C, Java, JavaScript, React, Tailwind CSS, Git, Databases, Postgresql, etc. 
 
 </td>
     <td>
